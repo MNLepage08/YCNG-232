@@ -2,7 +2,7 @@
 ## Natural Language Processing Findamentals
 
 1. Fundamental Concepts: token, tokenization, string, metadata, corpus, stopword, term-document matrix
-   - [Lincoln’s Second Inaugural Address](https://github.com/MNLepage08/YCNG-232/blob/main/Week_1_LSC.ipynb)
+   - [Lincoln’s Second Inaugural Address](https://github.com/MNLepage08/YCNG-232/blob/main/Week_1_LSI.ipynb)
    - [Le Petit Prince]()
 
 #### Bibliography
