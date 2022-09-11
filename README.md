@@ -3,6 +3,7 @@
 
 1. Fundamental Concepts: token, tokenization, string, metadata, corpus, stopword, term-document matrix
    - [Lincoln’s Second Inaugural](https://github.com/MNLepage08/YCNG-232/blob/main/Week_1_LSC.ipynb)
+   - [Le Petit Prince]()
 
 ## Bibliographie
 * [NLP with Python](https://tjzhifei.github.io/resources/NLTK.pdf)
