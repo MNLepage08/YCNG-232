@@ -1,5 +1,5 @@
 # YCNG-232
-## Natural Language Processing Findamentals
+## Natural Language Processing Fundamentals
 
 1. Fundamental Concepts: token, tokenization, string, metadata, corpus, stopword, term-document matrix
    - [Lincoln’s Second Inaugural Address](https://github.com/MNLepage08/YCNG-232/blob/main/Week_1_LSI.ipynb)
