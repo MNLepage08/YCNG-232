@@ -7,6 +7,7 @@
 2. Topic Detection: term-frequency versus inverse-document-frequency matix (tf-idf) & Latent Direchlet Allocation (LDA)
    - [R: TF-IDF & LDA](https://github.com/MNLepage08/YCNG-232/blob/main/Week_2_R.ipynb)
 3. Sentiment Analysis: lexicon & unigram
+   - [R: Reviews Amazon](https://github.com/MNLepage08/YCNG-232/blob/main/Week_3_R.ipynb)
 
 #### Bibliography
 * [NLP with Python](https://tjzhifei.github.io/resources/NLTK.pdf)
