@@ -8,6 +8,8 @@
    - [R: TF-IDF & LDA](https://github.com/MNLepage08/YCNG-232/blob/main/Week_2_R.ipynb)
 3. Sentiment Analysis: lexicon & unigram
    - [R: Reviews Amazon](https://github.com/MNLepage08/YCNG-232/blob/main/Week_3_R.ipynb)
+4. Tagging: Bigram & n-gram
+   - [Python: POS (Part Of Speech)](https://github.com/MNLepage08/YCNG-232/blob/main/Week_4_P.ipynb)
 
 #### Bibliography
 * [NLP with Python](https://tjzhifei.github.io/resources/NLTK.pdf)
