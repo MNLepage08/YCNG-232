@@ -10,8 +10,10 @@
    - [R: Reviews Amazon](https://github.com/MNLepage08/YCNG-232/blob/main/Week_3_R.ipynb)
 4. Tagging: Bigram & n-gram
    - [Python: POS (Part Of Speech)](https://github.com/MNLepage08/YCNG-232/blob/main/Week_4_P.ipynb)
-5. Word Networks:WordNet, hyponym, hypernum, meronym, holonym, antonym
+5. Word Networks: WordNet, hyponym, hypernum, meronym, holonym, antonym
    - [WordNet](https://github.com/MNLepage08/YCNG-232/blob/main/Week_5_P.ipynb)
+6. Correction and Prediction: Minimum Edit Distance
+   - [P: Kaggle](https://github.com/MNLepage08/YCNG-232/blob/main/Week_6_P.ipynb)
 
 #### Bibliography
 * [NLP with Python](https://tjzhifei.github.io/resources/NLTK.pdf)
