@@ -14,6 +14,8 @@
    - [WordNet](https://github.com/MNLepage08/YCNG-232/blob/main/Week_5_P.ipynb)
 6. Correction and Prediction: Minimum Edit Distance
    - [P: Kaggle](https://github.com/MNLepage08/YCNG-232/blob/main/Week_6_P.ipynb)
+7. Stemming: stemming, normalization, lemmatization
+   - [R: Q1 - Q2 - Q3 - Q8 - Q9](https://github.com/MNLepage08/YCNG-232)
 
 #### Bibliography
 * [NLP with Python](https://tjzhifei.github.io/resources/NLTK.pdf)
