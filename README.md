@@ -19,6 +19,8 @@
    - [P: Q4 - Q5 - Q6 - Q7](https://github.com/MNLepage08/YCNG-232/blob/main/Week_7_P.ipynb)
 8. Vectorization: cosine similarity, PMI, lemma, wordform, polysemous, word embedding, skipgram window, skipgram probability
    - [R: Vectorization](https://github.com/MNLepage08/YCNG-232/blob/main/Week_8_R.ipynb)
+9. Chatbots: reflexion, rule-based chatbot, self-learning chatbot, bag of words
+   - [P: Chatbots](https://github.com/MNLepage08/YCNG-232/blob/main/Week_9_P.ipynb)
 
 #### Bibliography
 * [NLP with Python](https://tjzhifei.github.io/resources/NLTK.pdf)
