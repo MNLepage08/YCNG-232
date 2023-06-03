@@ -33,12 +33,12 @@
 | 4 | Tagging | Bigram & n-gram |
 | 5 | Word Networks | WordNet, Hyponym, Hypernum, Meronym, Holonym, Antonym |
 | 6 | Correction & Prediction | Minimum Edit Distance |
-| 7 | Stemming | Lexicon & Unigram |
-| 8 | Vectorization | Cos similarity, PMI, Lemma, Wordform, Polysemous, Word embedding, Skipgram window & probability |
+| 7 | Stemming | Stemming, Normalization, Lemmatization |
+| 8 | Vectorization | Cosine similarity, PMI, Lemma, Wordform, Polysemous, Word embedding, Skipgram window & probability |
 | 9 | Chatbots | Reflexion, Rule-based chatbot, Self-learning chatbot, Bag of words |
 | 10 | Speech | Text to speech, Speech to text|
-   
 
+   
 ## :books: Bibliography
 * [NLP with Python](https://tjzhifei.github.io/resources/NLTK.pdf)
 * [Text Mining with R](https://www.tidytextmining.com)
