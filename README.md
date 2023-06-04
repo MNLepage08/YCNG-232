@@ -1,5 +1,7 @@
 # YCNG-232: Natural Language Processing Fundamentals
 
+<p align="center">
+<img width="688" alt="Capture d’écran, le 2023-06-04 à 08 56 38" src="https://github.com/MNLepage08/YCNG-232/assets/113123425/7d971038-0143-4b6c-a405-affd99837e15">
 
 ## :rocket: Assignments
 
@@ -15,13 +17,14 @@
    
 6. [Build simple spelling correction model / auto-completion that suggests possible options for the next word: ](https://github.com/MNLepage08/YCNG-232/blob/main/Week_6_P.ipynb) 
    - Collect smart home commands dataset. Preprocess the sentence with tokenize and put all distinct words into a list. For each word in the user-written sentence that is not in the list, compute the Levenshtein distance and replace the word that minimizes the distance. 
-   - Collect smart home commands dataset. Preprocess the sentence with tokenize. Create a 3-gram dictionary of words with a PMI score that associates the probability of each word. Write a function that returns the third word of two written words with decreasing score associated. Use NER with Spacy to never suggest names of people or places.
+   - Collect smart home commands dataset. Preprocess the sentence with tokenize. Create a 3-gram dictionary of words with a PMI score that associates the probability of each word. Write a function that returns the third word of two written words with decreasing score associated. Use NER with Spacy to never suggest names of people or places.<p>
+   
+7. Stemmed vs. Non-Stemmed ([R Code](https://github.com/MNLepage08/YCNG-232/blob/main/Week_7_R.ipynb), [Python Code](https://github.com/MNLepage08/YCNG-232/blob/main/Week_7_P.ipynb)): For tf-idf weight distribution, term/document similarity measures, proportion of words found in the sentiment lexicons, precision of n-gram taggers, to detect suspected plagiarism, text prediction, languages that are harder or easier to stem / segmentation.<p>
+   
+8. [Vectorization with k-means clusterings on a corpus: ](https://github.com/MNLepage08/YCNG-232/blob/main/Week_8_R.ipynb)Collection of the Jane Austen corpus. Preprocess with stop words and stemming. Compute and compare with k-means clusterings based on our three vectorizations (TF-IDF with cosine similarity, PMI, Word2Vec).
    
    
-7. [R: Q1 - Q2 - Q3 - Q8 - Q9](https://github.com/MNLepage08/YCNG-232/blob/main/Week_7_R.ipynb)
-   [P: Q4 - Q5 - Q6 - Q7](https://github.com/MNLepage08/YCNG-232/blob/main/Week_7_P.ipynb)<p>
-8. [R: Vectorization](https://github.com/MNLepage08/YCNG-232/blob/main/Week_8_R.ipynb)<p>
-9. [P: Chatbots](https://github.com/MNLepage08/YCNG-232/blob/main/Week_9_P.ipynb)
+9. [Create a simple chatbot that will be used to answer frequently asked questions: ](https://github.com/MNLepage08/YCNG-232/blob/main/Week_9_P.ipynb) Build a JSON file that contains tags, patterns, and answers. Preprocess the data with tokenizing, stemming, and bag of words. Train and save a DNN model. Process of generating a response with argmax to any sentence typed by the user.
 
 
 ## :mortar_board: Courses
@@ -42,6 +45,6 @@
    
 ## :books: Bibliography
    
-| <img width="300" alt="1" src="https://github.com/MNLepage08/MNLepage08/assets/113123425/edf1c98d-1203-4671-a7d0-b36995115569">  | <img width="300" alt="2" src="https://github.com/MNLepage08/MNLepage08/assets/113123425/53f4d59a-fe73-46de-99a5-b018c2671c25"> | <img width="300" alt="3" src="https://github.com/MNLepage08/MNLepage08/assets/113123425/a8a112a5-a8bf-4c11-88ea-67d274d2503d"> | <img width="180" alt="4" src="https://github.com/MNLepage08/MNLepage08/assets/113123425/f660a68b-b0f9-4268-89e4-a60e74992a39"> |
+| <img width="300" alt="1" src="https://github.com/MNLepage08/MNLepage08/assets/113123425/edf1c98d-1203-4671-a7d0-b36995115569">  | <img width="300" alt="2" src="https://github.com/MNLepage08/MNLepage08/assets/113123425/53f4d59a-fe73-46de-99a5-b018c2671c25"> | <img width="300" alt="3" src="https://github.com/MNLepage08/MNLepage08/assets/113123425/a8a112a5-a8bf-4c11-88ea-67d274d2503d"> | <img width="170" alt="4" src="https://github.com/MNLepage08/MNLepage08/assets/113123425/f660a68b-b0f9-4268-89e4-a60e74992a39"> |
 | :---: | :---: | :---: | :---: | 
 | [NLP with Python](https://tjzhifei.github.io/resources/NLTK.pdf) | [Text Mining with R](https://www.tidytextmining.com) | [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) | [Supervised Machine Learning for Text Analysis in R](https://smltar.com) |
