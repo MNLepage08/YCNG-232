@@ -1,5 +1,6 @@
 # YCNG-232: Natural Language Processing Fundamentals
 
+
 ## :rocket: Assignments
 
 1. [Token, Stop words, Distribution of Term Frequency, Word Cloud on book selected on web: ](https://github.com/MNLepage08/YCNG-232/blob/main/Week_1_LSI.ipynb)Retrieve a book from the web. Estimate the number of sentences/paragraphs/names (places and people) it contains. Select the ten most frequent words in the text as stop words. Identify potential stop words for documents written in a non-speaking language. Shape distribution with histogram of word frequencies. Visualize the word cloud.<p>
@@ -40,7 +41,7 @@
 
    
 ## :books: Bibliography
-* [NLP with Python](https://tjzhifei.github.io/resources/NLTK.pdf)
-* [Text Mining with R](https://www.tidytextmining.com)
-* [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
-* [Supervised Machine Learning for Text Analysis in R](https://smltar.com)
+   
+| <img width="300" alt="1" src="https://github.com/MNLepage08/MNLepage08/assets/113123425/edf1c98d-1203-4671-a7d0-b36995115569">  | <img width="300" alt="2" src="https://github.com/MNLepage08/MNLepage08/assets/113123425/53f4d59a-fe73-46de-99a5-b018c2671c25"> | <img width="300" alt="3" src="https://github.com/MNLepage08/MNLepage08/assets/113123425/a8a112a5-a8bf-4c11-88ea-67d274d2503d"> | <img width="180" alt="4" src="https://github.com/MNLepage08/MNLepage08/assets/113123425/f660a68b-b0f9-4268-89e4-a60e74992a39"> |
+| :---: | :---: | :---: | :---: | 
+| [NLP with Python](https://tjzhifei.github.io/resources/NLTK.pdf) | [Text Mining with R](https://www.tidytextmining.com) | [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) | [Supervised Machine Learning for Text Analysis in R](https://smltar.com) |
